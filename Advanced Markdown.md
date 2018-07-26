@@ -66,6 +66,8 @@ Markdown offers support for task lists. With special formatting, they appear wit
 * [ ] Talk about doing the thing
 * [ ] Do the thing
 
+These sorts of things [ ] are useful for lists individually, but also when working in groups. Github is a version control system, designed to help teams work together. These sorts of lists assist in keeping everyone abreast of the progress of a project.
+
 ---
 
 ### Footnotes and Definitions
@@ -82,3 +84,6 @@ A definition is also a reference based function. It is created independant of th
 
 With this definition, whenever URL is typed, the word is automatically defined.
 
+---
+
+Click [here](../master/Table%20of%20Contents.md) to return to the Table of Contents for this project.
