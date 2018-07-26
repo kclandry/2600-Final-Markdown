@@ -56,11 +56,12 @@ This is another link to [Google][1]
 
 [1]: https://www.google.com/ "Google's Homepage"
 ```
-This is a link to [Google][google]
-This is also a link to [Google][google]
-This is another link to [Google][google]
+This is a link to [Google][1]
+This is also a link to [Google][1]
+This is another link to [Google][1]
 
-[google]: https://www.google.com/
+[1]:https://www.google.com/
+
 ---
 
 Images are embedded in similar ways. Follow the same format for creating links, but place an exclamation point before the square brackets to create an embedded image. The text within the square brackets is not seen, it is mostly for users that are visually impaired.
