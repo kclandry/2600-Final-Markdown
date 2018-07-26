@@ -42,3 +42,7 @@ To align an image to the center is a little more involved. You have to define a 
 <p align="center">
   <img width="500" height="300" src="http://www.stevensegallery.com/500/300">
 </p>
+
+Images in markdown are created in-line by default, allowing text to flow around it.
+
+---
