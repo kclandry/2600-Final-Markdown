@@ -70,12 +70,28 @@ Tables are created with vertical lines, most often found on keyboards as the shi
 Simple|Table|Design
 ---|---|---
 1|2|3
-4|5|6|
-```
+4|5|6
 
+Tables can be formatted within markdown to look nicer within the code.
+
+Simple|Table|Design
+------|-----|------
+1     |2    |3
+4     |5    |6
+
+In the end, they appear the same in markdown.
+
+```
 Simple|Table|Design
 ---|---|---
 1|2|3
-4|5|6|
+4|5|6
 
+Tables can be formatted within markdown to look nicer within the code.
 
+Simple|Table|Design
+------|-----|------
+1     |2    |3
+4     |5    |6
+
+In the end, they appear the same in markdown.
