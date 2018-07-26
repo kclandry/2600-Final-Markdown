@@ -52,6 +52,14 @@ Images in markdown are created in-line by default, allowing text to flow around 
 
 ---
 
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+Markdown offers support for task lists. With special formatting, they appear with boxes (checked or unchecked) next to them.
+
+```
+* [x] Think about doing the thing
+* [ ] Talk about doing the thing
+* [ ] Do the thing
+```
+
+* [x] Think about doing the thing
+* [ ] Talk about doing the thing
+* [ ] Do the thing
