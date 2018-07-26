@@ -28,21 +28,21 @@ In the same vein, throughout this tutorial, I have been demonstrating the use of
 ---
 One of the most important tools in markdown is the ability to embed links. This functionality has been used to create the links that have jumped you to and from the Table of Contents. Creating links in markdown is, unsurprisingly, simple.
 
-To create a link, frame the word, phrase, sentence or whatever you wish inside a set of parentheses. Follow the closed parentheses with the link inside of square brackets, and markdown will create your link.
+To create a link, frame the word, phrase, sentence or whatever you wish inside a set of square brackets. Follow the closed parentheses with the link inside of parentheses, and markdown will create your link.
 
 ```
-This is a link to (Google)[https://www.google.com/]
+This is a link to [Google](https://www.google.com/)
 
-(This is also a link to Google)[https://www.google.com/]
+[This is also a link to Google](https://www.google.com/)
 ```
 
-This is a link to (Google)[https://www.google.com/]
+This is a link to [Google](https://www.google.com/)
 
-(This is also a link to Google)[https://www.google.com/]
+[This is also a link to Google](https://www.google.com/)
 
-After the link has been finished, placing a word or phrase inside of quotation marks will cause the word or phrase to appear when a user mouses over the link.
+After the link has been finished, placing a word or phrase inside of quotation marks within the parentheses will cause the word or phrase to appear when a user mouses over the link.
 
 ```
-This is a link to (Google)[https://www.google.com/"Google's Homepage"]
+This is a link to [Google](https://www.google.com/"Google's Homepage")
 ```
-This is a link to (Google)[https://www.google.com/"Google's Homepage"]
+This is a link to [Google](https://www.google.com/"Google's Homepage")
