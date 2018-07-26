@@ -67,6 +67,7 @@ They may be combined:
 
 1. This is the start of an ordered list
 2. Unordered lists may be placed within it
-* Use the same methods as above
-* To make unordered additions
+    * Use the same methods as above
+    * To make unordered additions
+    * You can indent them to created a "nested" list
 3. And return to the ordered list at any time
