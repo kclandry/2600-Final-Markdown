@@ -1,4 +1,4 @@
-#Markdown Basics: Text Formatting
+# Markdown Basics: Text Formatting
 #### This page will cover the basics of simple text formatting. It will include making text italicized, bold and more.
 
 The first step to creating markdown in github is to ensure when you are creating a new file, to use the file extension ".md". This tells github that you are making a markdown file. Forgetting to do this will make the file appear as raw text. If you are having this issue, be sure that your file is called "file.md" and not just "file". 
@@ -8,12 +8,12 @@ The formatting that will be often used first in a markdown document is, appropri
 
 ```To demonstrate:
 
-#Header 1
-##Header 2
-###Header 3
-####Header 4
-#####Header 5
-######Header 6
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
 
 Header 1
 =====
@@ -23,12 +23,12 @@ Header 2
 ```
 That section becomes this cascading formatting:
 
-#Header 1
-##Header 2
-###Header 3
-####Header 4
-#####Header 5
-######Header 6
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
 
 Header 1
 =====
