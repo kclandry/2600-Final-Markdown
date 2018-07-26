@@ -100,11 +100,16 @@ Markdown formatting may be applied as normal within a table. While the header is
 
 ```
 Advanced|Table|Design
-:------:|----:|------
+:------:|----:|:------
 **Bolded**|*Italicized*|~~Strikethrough~~
-Center Justified    |Right Justified    |Left Justified (Default)
+Center Justified    |Right Justified    |Left Justified
 ```
 Advanced|Table|Design
 :------:|----:|:------
 **Bolded**|*Italicized*|~~Strikethrough~~
 Center Justified    |Right Justified    |Left Justified
+
+---
+
+Click [here](../master/Table%20of%20Contents.md) to return to the Table of Contents for this project.
+
