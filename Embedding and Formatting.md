@@ -26,6 +26,23 @@ In the same vein, throughout this tutorial, I have been demonstrating the use of
 ```
 
 ---
+Sometimes when typing, it is important to explain something further, although it is not pertinent to interrupt the flow of the statement. In these situations, it might be wise to use definitions and footnotes. Definitions allow you to define a word when the user hovers over it, while a footnote lets you add a note to the bottom of the page. A footnote links to and from its reference. A definition causes each instance of itself to be highlighted.
+
+```
+This sentence contains a footnote[^1]. This sentence contains the definition of URL. This use of URL is also defined.
+
+*[URL]:A Uniform Resource Locator is an address on the internet.
+
+[^1]This footnote is written here, but appears down below.
+```
+This sentence contains a footnote[^1]. This sentence contains the definition of URL. This use of URL is also defined.
+
+*[URL]:A Uniform Resource Locator is an address on the internet.
+
+[^1]This footnote is written here, but appears down below.
+
+---
+
 One of the most important tools in markdown is the ability to embed links. This functionality has been used to create the links that have jumped you to and from the Table of Contents. Creating links in markdown is, unsurprisingly, simple.
 
 To create a link, frame the word, phrase, sentence or whatever you wish inside a set of square brackets. Follow the closed parentheses with the link inside of parentheses, and markdown will create your link.
