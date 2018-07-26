@@ -15,7 +15,7 @@ will have had its formatting removed.
 </details>
 ```
 <details>
-<summary>"Collapsible Section"</summary>
+<summary>Collapsible Section</summary>
 You can write whatever you want here. It will appear as normal when the section is opened.
 However, no other markdown formatting works here. Only plain text will appear here, everything else
 will have had its formatting removed.
