@@ -17,7 +17,6 @@ has had its formatting removed.
 <details>
 <summary>"Collapsible Section"</summary>
 You can write whatever you want here. It will appear as normal when the section is opened.
-*You can put lists
-*You can **bold** text
-*It all disappears or appears based upon the header
+However, no other markdown formatting works here. Only plain text will appear here, everything else
+has had its formatting removed.
 </details>
