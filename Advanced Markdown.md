@@ -66,7 +66,7 @@ Markdown offers support for task lists. With special formatting, they appear wit
 * [ ] Talk about doing the thing
 * [ ] Do the thing
 
-These sorts of things [ ] are useful for lists individually, but also when working in groups. Github is a version control system, designed to help teams work together. These sorts of lists assist in keeping everyone abreast of the progress of a project.
+These sorts of things are useful for lists individually, but also when working in groups. Github is a version control system, designed to help teams work together. These sorts of lists assist in keeping everyone abreast of the progress of a project.
 
 ---
 
