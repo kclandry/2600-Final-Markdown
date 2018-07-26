@@ -123,3 +123,8 @@ They may be combined:
     * To make unordered additions
             * You can indent them to created a "nested" list
 3. And return to the ordered list at any time
+
+---
+
+Click [here](../master/Table%20of%20Contents.md) to return to the Table of Contents for this project.
+
