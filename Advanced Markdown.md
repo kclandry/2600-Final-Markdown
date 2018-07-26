@@ -32,8 +32,6 @@ Images, like most of markdown, are by default left-aligned. However, an image ca
 
 <img align="right" width="200" height="300" src="http://www.stevensegallery.com/200/300">
 
----
-
 To align an image to the center is a little more involved. You have to define a paragraph using the \<p> tag, and align that to the center.
 
 
@@ -51,7 +49,5 @@ Images in markdown are created in-line by default, allowing text to flow around 
 <p align="center">
   <img width="400" height="350" src="http://www.stevensegallery.com/400/350">
 </p>
-
-
 
 ---
