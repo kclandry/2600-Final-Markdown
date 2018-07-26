@@ -4,6 +4,8 @@ This page will demonstrate more advanced uses of markdown. Namely, embedding ima
 
 ---
 
+### Horizontal Lines
+
 First of all, on the previous page, there were several horizontal lines used to seperate the individual sections. These were created using groupings of certain symbols. A group of three or more asterisks, dashes(hyphens) , or underscores may be used.
 
 ```To demonstrate:
@@ -16,6 +18,8 @@ These become the following lines:
 ---
 *****
 ___________
+
+### Code Blocks
 
 In the same vein, throughout this tutorial, I have been demonstrating the use of markdown in plain text, then showing the result of using the text in markdown. This is achieved by placing three tick marks ( \` ) at the beginning and end of a section. This creates a section of code. While this is meant to be used for showing the raw code of programming languages, it works just as well for this tutorial.
 
@@ -42,6 +46,8 @@ Sometimes a user wants to type a tick mark without denoting code, or use an aste
 \*Using backslash prevents this sentence from being italicized.\*
 
 ---
+
+### Embedding Links
 
 One of the most important tools in markdown is the ability to embed links. This functionality has been used to create the links that have jumped you to and from the Table of Contents. Creating links in markdown is, unsurprisingly, simple.
 
@@ -86,6 +92,7 @@ This is a link to [Amazon][2]
 [2]:https://www.amazon.com/
 
 ---
+### Embedding Images
 
 Images are embedded in similar ways. Follow the same format for creating links, but place an exclamation point before the square brackets to create an embedded image. The text within the square brackets is not seen, it is mostly for users that are visually impaired. Images can be referenced, just like links.
 
@@ -107,6 +114,9 @@ Images are embedded in similar ways. Follow the same format for creating links, 
 [3]:http://www.stevensegallery.com/100/100 "Steven Small"
 
 ---
+
+### Tables in Markdown
+
 The final topic covered on this page will be the use of tables. Tables are excellent ways to organize and present information, and while they can be embedded, tables can be created entirely within markdown. 
 
 Tables are created with vertical lines, most often found on keyboards as the shift-function of the backslash key, typically found above the enter key. By seperating words and phrases into columns using the vertical line ( | ) and creating rows with new lines, making a table in markdown is quite easy. A table is begun by creating header columns and seperating them, and then using three or more dashes in the second row in the same number of columns.
@@ -153,20 +163,6 @@ Advanced|Table|Design
 :------:|----:|:------
 **Bolded**|*Italicized*|~~Strikethrough~~
 Center Justified    |Right Justified    |Left Justified
-
----
-
-There are several more markdown functions, such as definitions and footnotes. However, these functions of markdown are not supported by github and cannot be demonstrated here. In other places that do support these functions, they work similarly to other forms of reference.
-
-A footnote is created in the same way a link or image reference is created, but uses a caret ( ^ ) to turn it into a footnote. When you define the reference, the document creates the footnote at the bottom of the page, and links the note to and from the origination point. 
-
-A sentence with a footnote[^5] in it would have a footnote. It would be elsewere defined as [5] as normal, and show at the bottom of the page. 
-
-A definition is also a reference based function. It is created independant of the initial reference, however. With links, images and footnotes, a reference is created and defined elsewhere. With a definition, the initial reference is not used. A definition is denoted with an asterisk before the square brackets. Once defined, whenever the word used within the brackets is used in the document, the definition is displayed if the user hovers over the word. This is used mostly for abbreviations.
-
-*[URL]: Uniform Resource Locator
-
-With this definition, whenever URL is typed, the word is automatically defined.
 
 ---
 
