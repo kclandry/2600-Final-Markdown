@@ -37,9 +37,9 @@ This sentence contains a footnote[^1]. This sentence contains the definition of 
 ```
 This sentence contains a footnote[^1]. This sentence contains the definition of URL. This use of URL is also defined.
 
-*[URL]:A Uniform Resource Locator is an address on the internet.
+*[URL]: A Uniform Resource Locator is an address on the internet.
 
-[^1]This footnote is written here, but appears down below.
+[^1]:This footnote is written here, but appears down below.
 
 ---
 
