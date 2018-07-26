@@ -25,12 +25,21 @@ In the same vein, throughout this tutorial, I have been demonstrating the use of
 ***When framed with three tick marks, this sentence will be displayed in plain text.***
 ```
 
-When a coding language that markdown recognizes is used in conjunction to this function, it provides useful syntax highlighting support. For example, javascript can be highlighted by typing "\`\`\`javascript) At the start of the section.
+When a coding language that markdown recognizes is used in conjunction to this function, it provides useful syntax highlighting support. For example, javascript can be highlighted by typing "\`\`\`javascript" At the start of the section.
 
 ```javascript
 var car = {type:"Fiat", model:"500", color:"white"};
 document.getElementById("demo").innerHTML = car.type;
 ```
+
+---
+
+Sometimes a user wants to type a tick mark without denoting code, or use an asterisk without risking making something a list. By using the backslash ( \ ), you can remove the formatting of the symbol.
+
+```
+\*Using backslash prevents this sentence from being italicized.\*
+```
+\*Using backslash prevents this sentence from being italicized.\*
 
 ---
 
