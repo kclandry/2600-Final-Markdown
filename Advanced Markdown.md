@@ -24,13 +24,10 @@ will have had its formatting removed.
 
 ---
 
-Images, like most of markdown, are by default left-aligned. However, with a SVG-style code, an image can be aligned to the center or the right.
+Images, like most of markdown, are by default left-aligned. However, an image can be aligned to the center or the right. To align an image to the right, one must use the following code, defining the width and height (in pixels) of the image.
 
- ```
-<img align="center" width="400" height="300" src="http://www.stevensegallery.com/400/300">
-
+```
 <img align="right" width="200" height="300" src="http://www.stevensegallery.com/200/300">
 ```
-<img align="center" width="400" height="300" src="http://www.stevensegallery.com/400/300">
 
 <img align="right" width="200" height="300" src="http://www.stevensegallery.com/200/300">
