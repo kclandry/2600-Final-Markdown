@@ -39,17 +39,17 @@ To align an image to the center is a little more involved. You have to define a 
 
 ```
 <p align="center">
-  <img width="500" height="300" src="http://www.stevensegallery.com/500/300">
+  <img width="400" height="350" src="http://www.stevensegallery.com/400/350">
 </p>
 ```
 <p align="center">
-  <img width="900" height="300" src="http://www.stevensegallery.com/900/300">
+  <img width="400" height="350" src="http://www.stevensegallery.com/400/350">
 </p>
 
 Images in markdown are created in-line by default, allowing text to flow around it. This image has centered in the space left from the picture to the right. If we enter the code again, without an image to the right, it centers properly.
 
 <p align="center">
-  <img width="500" height="300" src="http://www.stevensegallery.com/500/300">
+  <img width="400" height="350" src="http://www.stevensegallery.com/400/350">
 </p>
 
 
