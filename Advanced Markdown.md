@@ -15,5 +15,5 @@ You can write whatever you want here. It will appear as normal when the section 
 
 <details>
 <summary>"Collapsible Section"</summary>
-You can write whatever you want here. It will appear as normal when the section is opened. *You have the full [gamut](https://www.google.com "Google again") of options available to you.* 
+You can write whatever you want here. It will appear as normal when the section is opened. 
 </details>
