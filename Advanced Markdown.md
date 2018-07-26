@@ -9,11 +9,16 @@ Collapsible sections of text are useful for reducing clutter in a page when deal
 ```
 <details>
 <summary>"Collapsible Section"</summary>
-You can write whatever you want here. It will appear as normal when the section is opened. *You have the full [gamut](https://www.google.com "Google again") of options available to you.* 
+You can write whatever you want here. It will appear as normal when the section is opened.
+*You can put lists
+*You can **bold** text
+*It all disappears or appears based upon the header
 </details>
 ```
-
 <details>
 <summary>"Collapsible Section"</summary>
-You can write whatever you want here. It will appear as normal when the section is opened. 
+You can write whatever you want here. It will appear as normal when the section is opened.
+*You can put lists
+*You can **bold** text
+*It all disappears or appears based upon the header
 </details>
