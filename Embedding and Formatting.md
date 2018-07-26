@@ -94,4 +94,17 @@ Simple|Table|Design
 1     |2    |3
 4     |5    |6
 
-In the end, they appear the same in markdown.
+In the end, they appear the same in markdown. 
+
+Markdown formatting may be applied as normal within a table. While the header is automatically bolded, by using the same methods as usual, the subjects inside the table may be bolded, italicized or more. By placing colons on the right or both sides of the lines in the second row of the code, the columns may be right or center justified, respectively.
+
+```
+Advanced|Table|Design
+:------:|----:|------
+**Bolded**|*Italicized*|~~Strikethrough~~
+Center Justified    |Right Justified    |Left Justified (Default)
+```
+Advanced|Table|Design
+:------:|----:|------
+**Bolded**|*Italicized*|~~Strikethrough~~
+Center Justified    |Right Justified    |Left Justified (Default)
