@@ -5,7 +5,7 @@ This section will cover some of the more complex features of markdown. These are
 --- 
 ### Collapsible Sections
 
-Collapsible sections of text are useful for reducing clutter in a page when dealing with large amounts of text. A collapsible section begins and ends with the 'details' header. The summary denotes what the section will display when collapsed, while the section following that is what is contained inside. 
+Collapsible sections of text are useful for reducing clutter in a page when dealing with large amounts of text. A collapsible section begins and ends with the 'details' header. The "summary" denotes what the section will display when collapsed, while the text following  is what is contained inside. A collapsible section is opened or closed by clicking on the "summary" header.
 
 ```
 <details>
