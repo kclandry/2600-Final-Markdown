@@ -65,3 +65,20 @@ Markdown offers support for task lists. With special formatting, they appear wit
 * [x] Think about doing the thing
 * [ ] Talk about doing the thing
 * [ ] Do the thing
+
+---
+
+### Footnotes and Definitions
+
+There are several more markdown functions, such as definitions and footnotes. However, these functions of markdown are not supported by github and cannot be demonstrated here. In other places that do support these functions, they work similarly to other forms of reference.
+
+A footnote is created in the same way a link or image reference is created, but uses a caret ( ^ ) to turn it into a footnote. When you define the reference, the document creates the footnote at the bottom of the page, and links the note to and from the origination point. 
+
+A sentence with a footnote[^5] in it would have a footnote. It would be elsewere defined as [5] as normal, and show at the bottom of the page. 
+
+A definition is also a reference based function. It is created independant of the initial reference, however. With links, images and footnotes, a reference is created and defined elsewhere. With a definition, the initial reference is not used. A definition is denoted with an asterisk before the square brackets. Once defined, whenever the word used within the brackets is used in the document, the definition is displayed if the user hovers over the word. This is used mostly for abbreviations.
+
+*[URL]: Uniform Resource Locator
+
+With this definition, whenever URL is typed, the word is automatically defined.
+
