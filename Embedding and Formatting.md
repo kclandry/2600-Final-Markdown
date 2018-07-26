@@ -61,4 +61,21 @@ Images are embedded in similar ways. Follow the same format for creating links, 
 
 ![Smaller Seagal](http://www.stevensegallery.com/200/200 "Steven Seagal")
 
+---
+The final topic covered on this page will be the use of tables. Tables are excellent ways to organize and present information, and while they can be embedded, tables can be created entirely within markdown. 
+
+Tables are created with vertical lines, most often found on keyboards as the shift-function of the backslash key, typically found above the enter key. By seperating words and phrases into columns using the vertical line ( | ) and creating rows with new lines, making a table in markdown is quite easy. A table is begun by creating header columns and seperating them, and then using three or more dashes in the second row in the same number of columns.
+
+```
+Simple|Table|Design
+---|---|---
+1|2|3
+4|5|6|
+```
+
+Simple|Table|Design
+---|---|---
+1|2|3
+4|5|6|
+
 
