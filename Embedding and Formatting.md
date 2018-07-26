@@ -47,7 +47,7 @@ This is a link to [Google](https://www.google.com/ "Google's Homepage")
 ```
 This is a link to [Google](https://www.google.com/ "Google's Homepage")
 
-If you want to link a page multiple times, it is typically easier to use a referenced link. Instead of placing the link in parentheses each time, place a number within square brackets. Elsewhere in the code, you will define that link.
+If you want to link a page multiple times, it is typically easier to use a referenced link. Instead of placing the link in parentheses each time, place something else within square brackets, directly after the first set of brackets. Elsewhere in the code, you will define that link.
 
 ```
 This is a link to [Google][1]
@@ -56,11 +56,11 @@ This is another link to [Google][1]
 
 [1]: https://www.google.com/ "Google's Homepage"
 ```
-This is a link to [Google][1]
-This is also a link to [Google][1]
-This is another link to [Google][1]
+This is a link to [Google][google]
+This is also a link to [Google][google]
+This is another link to [Google][google]
 
-[1]: https://www.google.com/ "Google's Homepage"
+[google]: https://www.google.com/
 ---
 
 Images are embedded in similar ways. Follow the same format for creating links, but place an exclamation point before the square brackets to create an embedded image. The text within the square brackets is not seen, it is mostly for users that are visually impaired.
