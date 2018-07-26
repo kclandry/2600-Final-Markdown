@@ -1,6 +1,6 @@
 # Advanced Markdown
 
-This section will cover some of the more complex features of markdown. These are functions that are less commonly used, but are valuable to know, as when the situation arises, they are quite useful. Some of these functionalities are coded in ways similar to HTML, which markdown has (limited) support for.
+This section will cover some of the more complex features of markdown. These are functions that are less commonly used, but are valuable to know, as when the situation arises, they are quite useful. Some of these functionalities are coded in ways similar to HTML or SVG, which markdown has (limited) support for.
 
 ---
 
@@ -24,6 +24,13 @@ will have had its formatting removed.
 
 ---
 
-Images, like most of markdown, are by default left-aligned. 
+Images, like most of markdown, are by default left-aligned. However, with a SVG-style code, an image can be aligned to the center or the right.
 
-<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
+ ```
+<img align="center" width="400" height="300" src="http://www.stevensegallery.com/400/300">
+
+<img align="right" width="200" height="300" src="http://www.stevensegallery.com/200/300">
+```
+<img align="center" width="400" height="300" src="http://www.stevensegallery.com/400/300">
+
+<img align="right" width="200" height="300" src="http://www.stevensegallery.com/200/300">
