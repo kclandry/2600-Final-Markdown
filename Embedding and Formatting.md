@@ -156,7 +156,7 @@ Center Justified    |Right Justified    |Left Justified
 
 ---
 
-There are several more markdown functions, such as definitions and footnotes. However, these functions of markdown are not supported by github and cannot be demonstrated here. However, in other places that support them, they work similarly to other forms of reference.
+There are several more markdown functions, such as definitions and footnotes. However, these functions of markdown are not supported by github and cannot be demonstrated here. In other places that do support these functions, they work similarly to other forms of reference.
 
 A footnote is created in the same way a link or image reference is created, but uses a caret ( ^ ) to turn it into a footnote. When you define the reference, the document creates the footnote at the bottom of the page, and links the note to and from the origination point. 
 
