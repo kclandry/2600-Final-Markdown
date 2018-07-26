@@ -51,3 +51,7 @@ Images in markdown are created in-line by default, allowing text to flow around 
 </p>
 
 ---
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
