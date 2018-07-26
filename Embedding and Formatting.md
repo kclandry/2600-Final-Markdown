@@ -62,9 +62,10 @@ This is a link to [Google][1]
 
 This is also a link to [Google][1]
 
-This is another link to [Google][1]
+This is a link to [Amazon][2]
 
 [1]:https://www.google.com/
+[2]:https://www.amazon.com/
 
 ---
 
