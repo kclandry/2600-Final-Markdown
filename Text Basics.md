@@ -4,6 +4,9 @@
 The first step to creating markdown in github is to ensure when you are creating a new file, to use the file extension ".md". This tells github that you are making a markdown file. Forgetting to do this will make the file appear as raw text. If you are having this issue, be sure that your file is called "file.md" and not just "file". 
 
 ***
+
+### Headers
+
 The formatting that will be often used first in a markdown document is, appropriately, headers. Headers are denoted with the # pound sign. Placing additional pound symbols creates different, and smaller, headers. The biggest and next-biggest headers can be denoted with a line of five = equal signs or - dashes under the text, respectively.
 
 
@@ -39,6 +42,8 @@ Header 2
 
 ---
 
+### Emphasizing Text
+
 Emphasizing text in markdown is both simple and modular. You can affect **single** words, **multiple words** or whole paragraphs. Every type of formatting has a symbol or symbols that you use to denote its use. You will type the symbol when you want to start the formatting, then again when it is done.
 
 Italics are denoted by a single asterisk or a single underscore. * or _
@@ -65,6 +70,8 @@ You can use a single *asterisk* or _underscore_ to italicize words, a double **a
 
 ***
 
+### Blockquotes
+
 The next type of basic formatting is the "blockquote". Using the > key, one can create quoted text. A second > creates an indented quote.
 
 ```To demonstrate:
@@ -80,6 +87,8 @@ That section becomes this:
 >>Two symbols indents the quote. This is often used for quoting someone within your original quote.
 
 ***
+
+### Lists
 
 The other basic type of text formatting is the use of lists. Lists can be either ordered (numbered) or unordered. 
 
