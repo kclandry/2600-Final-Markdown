@@ -25,21 +25,6 @@ In the same vein, throughout this tutorial, I have been demonstrating the use of
 ***When framed with three tick marks, this sentence will be displayed in plain text.***
 ```
 
----
-Sometimes when typing, it is important to explain something further, although it is not pertinent to interrupt the flow of the statement. In these situations, it might be wise to use definitions and footnotes. Definitions allow you to define a word when the user hovers over it, while a footnote lets you add a note to the bottom of the page. A footnote links to and from its reference. A definition causes each instance of itself to be highlighted.
-
-```
-This sentence contains a footnote[^1]. This sentence contains the definition of URL. This use of URL is also defined.
-
-*[URL]:A Uniform Resource Locator is an address on the internet.
-
-[^1]This footnote is written here, but appears down below.
-```
-This sentence contains a footnote[^1]. This sentence contains the definition of URL. This use of URL is also defined.
-
-*[URL]: A Uniform Resource Locator is an address on the internet.
-
-[^1]:This footnote is written here, but appears down below.
 
 ---
 
@@ -155,6 +140,8 @@ Advanced|Table|Design
 Center Justified    |Right Justified    |Left Justified
 
 ---
+
+There are several more markdown functions, such as definitions and footnotes. However, these functions of markdown are not supported by github and cannot be demonstrated here. 
 
 Click [here](../master/Table%20of%20Contents.md) to return to the Table of Contents for this project.
 
