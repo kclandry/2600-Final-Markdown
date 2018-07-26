@@ -70,17 +70,24 @@ This is a link to [Amazon][2]
 
 ---
 
-Images are embedded in similar ways. Follow the same format for creating links, but place an exclamation point before the square brackets to create an embedded image. The text within the square brackets is not seen, it is mostly for users that are visually impaired.
+Images are embedded in similar ways. Follow the same format for creating links, but place an exclamation point before the square brackets to create an embedded image. The text within the square brackets is not seen, it is mostly for users that are visually impaired. Images can be referenced, just like links.
 
 ```
 ![Seagal](http://www.stevensegallery.com/300/300)
 
 ![Smaller Seagal](http://www.stevensegallery.com/200/200 "Steven Seagal")
-```
 
+![Smallest Seagal][3]
+
+[3]:http://www.stevensegallery.com/100/100 "Steven Small"
+```
 ![Seagal](http://www.stevensegallery.com/300/300)
 
 ![Smaller Seagal](http://www.stevensegallery.com/200/200 "Steven Seagal")
+
+![Smallest Seagal][3]
+
+[3]:http://www.stevensegallery.com/100/100 "Steven Small"
 
 ---
 The final topic covered on this page will be the use of tables. Tables are excellent ways to organize and present information, and while they can be embedded, tables can be created entirely within markdown. 
