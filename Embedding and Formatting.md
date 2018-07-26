@@ -54,11 +54,11 @@ Images are embedded in similar ways. Follow the same format for creating links, 
 ```
 ![Seagal](http://www.stevensegallery.com/300/300)
 
-![Smaller Seagal](http://www.stevensegallery.com/200/250 "Steven Seagal")
+![Smaller Seagal](http://www.stevensegallery.com/200/200 "Steven Seagal")
 ```
 
 ![Seagal](http://www.stevensegallery.com/300/300)
 
-![Smaller Seagal](http://www.stevensegallery.com/200/250 "Steven Seagal")
+![Smaller Seagal](http://www.stevensegallery.com/200/200 "Steven Seagal")
 
 
