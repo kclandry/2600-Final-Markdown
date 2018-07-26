@@ -33,20 +33,21 @@ You can use a single *asterisk* or _underscore_ to italicize words, a double **a
 
 The next type of basic formatting is the "blockquote". Using the > key, one can create quoted text. A second > creates an indented quote.
 
-``To demonstrate:
+```To demonstrate:
 
 >This is a blockquote
 >>Two symbols indents the quote. This is often used for quoting someone within your original quote.
-``
+```
+
 That section becomes this:
 
 
 >This is a blockquote
 >>Two symbols indents the quote. This is often used for quoting someone within your original quote.
 
-The other basic type of text formatting is the use of lists. Lists can be either ordered (numbered) or unordered. 
-
 ***
+
+The other basic type of text formatting is the use of lists. Lists can be either ordered (numbered) or unordered. 
 
 Simply put, using a number followed by a period, you create a numbered list. Using a single, unclosed asterisk, a minus (-) or a plus (+), you can create an unordered list. These types of lists can be combined freely.
 
