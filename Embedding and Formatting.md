@@ -46,3 +46,13 @@ After the link has been finished, placing a word or phrase inside of quotation m
 This is a link to [Google](https://www.google.com/ "Google's Homepage")
 ```
 This is a link to [Google](https://www.google.com/ "Google's Homepage")
+
+---
+
+Images are embedded in similar ways. Follow the same format for creating links, but place an exclamation point before the square brackets to create an embedded image.
+
+```
+![Seagal](http://www.stevensegallery.com/300/300)
+```
+
+![Seagal](http://www.stevensegallery.com/300/300)
