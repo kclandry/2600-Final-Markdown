@@ -51,13 +51,17 @@ If you want to link a page multiple times, it is typically easier to use a refer
 
 ```
 This is a link to [Google][1]
+
 This is also a link to [Google][1]
+
 This is another link to [Google][1]
 
-[1]: https://www.google.com/ "Google's Homepage"
+[1]:https://www.google.com/
 ```
 This is a link to [Google][1]
+
 This is also a link to [Google][1]
+
 This is another link to [Google][1]
 
 [1]:https://www.google.com/
