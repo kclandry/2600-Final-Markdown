@@ -3,7 +3,7 @@
 
 The first step to creating markdown in github is to ensure when you are creating a new file, to use the file extension ".md". This tells github that you are making a markdown file. Forgetting to do this will make the file appear as raw text. If you are having this issue, be sure that your file is called "file.md" and not just "file". 
 
-+++
+***
 
 Emphasizing text in markdown is both simple and modular. You can affect **single** words, **multiple words** or whole paragraphs. Every type of formatting has a symbol or symbols that you use to denote its use. You will type the symbol when you want to start the formatting, then again when it is done.
 
@@ -29,7 +29,7 @@ With markdown, that paragraph turns into this:
 
 You can use a single *asterisk* or _underscore_ to italicize words, a double **asterisk** or double __underscore__ to make something bolded, and two ~~tildes~~ to make something strikethrough. You can use ***three asterisks*** or ___three underscores___ to get bolded italics. You can use these functions within each other as well. *By using a single asterisk, this whole sentence is italicized, but by putting **two asterisks here**, that part is bolded as well.*
 
-+++
+***
 
 The next type of basic formatting is the "blockquote". Using the > key, one can create quoted text. A second > creates an indented quote.
 
@@ -46,7 +46,7 @@ That section becomes this:
 
 The other basic type of text formatting is the use of lists. Lists can be either ordered (numbered) or unordered. 
 
-+++
+***
 
 Simply put, using a number followed by a period, you create a numbered list. Using a single, unclosed asterisk, a minus (-) or a plus (+), you can create an unordered list. These types of lists can be combined freely.
 
