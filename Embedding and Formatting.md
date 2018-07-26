@@ -43,6 +43,6 @@ This is a link to [Google](https://www.google.com/)
 After the link has been finished, placing a word or phrase inside of quotation marks within the parentheses will cause the word or phrase to appear when a user mouses over the link.
 
 ```
-This is a link to [Google](https://www.google.com/"Google's Homepage")
+This is a link to [Google](https://www.google.com/ "Google's Homepage")
 ```
-This is a link to [Google](https://www.google.com/"Google's Homepage")
+This is a link to [Google](https://www.google.com/ "Google's Homepage")
