@@ -49,10 +49,14 @@ This is a link to [Google](https://www.google.com/ "Google's Homepage")
 
 ---
 
-Images are embedded in similar ways. Follow the same format for creating links, but place an exclamation point before the square brackets to create an embedded image.
+Images are embedded in similar ways. Follow the same format for creating links, but place an exclamation point before the square brackets to create an embedded image. The text within the square brackets is not seen, it is mostly for users that are visually impaired.
 
 ```
 ![Seagal](http://www.stevensegallery.com/300/300)
+![Smaller Seagal](http://www.stevensegallery.com/200/200 "Steven Seagal")
 ```
 
 ![Seagal](http://www.stevensegallery.com/300/300)
+![Smaller Seagal](http://www.stevensegallery.com/200/200 "Steven Seagal")
+
+
