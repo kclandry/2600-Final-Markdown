@@ -109,7 +109,7 @@ Lastly, and perhaps least, github, along with some other markdown-using websites
 ```
 :sunglasses: :8ball: :whale: :eight: :six: :seven: :five: :three: :zero: :nine:
 
-
+A full list of the emojis that github supports can be found [here.](https://www.emoji-cheat-sheet.com "Github Emojis")
 
 ---
 
