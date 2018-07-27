@@ -22,6 +22,16 @@ However, no other markdown formatting works here. Only plain text will appear he
 will have had its formatting removed.
 </details>
 
+---
+### Sizing Images
+
+Github supports the use of HTML, and using that, we can have greater control over image sizes and alignments. Instead of using the standard markdown image insertion code, instead use the HTML ```<img>``` tag. The image then is defined to have a height and width, as well as a title.
+
+```
+<img src="http://www.stevensegallery.com/500/500" height="500" width="500" title="Steven the Musician">
+```
+
+<img src="http://www.stevensegallery.com/500/500" height="500" width="500" title="Steven the Musician">
 
 ---
 ### Aligning Images
