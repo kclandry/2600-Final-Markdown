@@ -90,13 +90,26 @@ After this, you must place the footnote manually at the bottom of the page. Whil
 
 ---
 
-# Definitions
+### Definitions
 
 A definition is also a reference based function. It is created independant of the initial reference, however. With links, images and footnotes, a reference is created and defined elsewhere. With a definition, the initial reference is not used. A definition is denoted with an asterisk before the square brackets. Once defined, whenever the word used within the brackets is used in the document, the definition is displayed if the user hovers over the word. This is used mostly for abbreviations.
 
 *[URL]: Uniform Resource Locator
 
 With this definition, whenever URL is typed, the word is automatically defined.
+
+---
+
+### Emoji
+
+Lastly, and perhaps least, github, along with some other markdown-using websites and services, support emojis. These small images will likely have limited usefulness, but it is worth knowing nonetheless. An emoji is created by placing the appropriate emoji code within a pair of colons. 
+
+```
+:sunglasses: :8ball: :whale: :eight: :six: :seven: :five: :three: :zero: :nine:
+```
+:sunglasses: :8ball: :whale: :eight: :six: :seven: :five: :three: :zero: :nine:
+
+
 
 ---
 
