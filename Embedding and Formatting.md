@@ -169,15 +169,15 @@ In the end, they appear the same in markdown.
 Markdown formatting may be applied as normal within a table. While the header is automatically bolded, by using the same methods as usual, the subjects inside the table may be bolded, italicized or more. By placing colons on the left, right or both sides of the lines in the second row of the code, the columns may be left, right or center justified, respectively. By default, a table's header is centered, while the contents are left justified.
 
 ```
-Advanced|Table|Design
-:------:|----:|:------
-**Bolded**|*Italicized*|~~Strikethrough~~
-Center Justified    |Right Justified    |Left Justified
+Advanced        |Table          |Design
+:--------------:|--------------:|:------
+**Bolded**      |*Italicized*   |~~Strikethrough~~
+Center Justified|Right Justified|Left Justified
 ```
-Advanced|Table|Design
-:------:|----:|:------
-**Bolded**|*Italicized*|~~Strikethrough~~
-Center Justified    |Right Justified    |Left Justified
+Advanced        |Table          |Design
+:--------------:|--------------:|:------
+**Bolded**      |*Italicized*   |~~Strikethrough~~
+Center Justified|Right Justified|Left Justified
 
 ---
 
