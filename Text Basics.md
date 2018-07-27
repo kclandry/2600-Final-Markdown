@@ -1,7 +1,7 @@
 # Markdown Basics: Text Formatting
 #### This page will cover the basics of simple text formatting. It will include making text italicized, bold and more.
 
-The first step to creating markdown in github is to ensure when you are creating a new file, to use the file extension ".md". This tells github that you are making a markdown file. Forgetting to do this will make the file appear as raw text. If you are having this issue, be sure that your file is called "file.md" and not just "file". 
+The first step to creating markdown in Github is to ensure when you are creating a new file, to use the file extension ".md". This tells Github that you are making a markdown file. Forgetting to do this will make the file appear as raw text. If you are having this issue, be sure that your file is called "file.md" and not just "file". 
 
 ***
 
