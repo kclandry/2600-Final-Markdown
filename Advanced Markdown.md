@@ -33,6 +33,8 @@ Github supports the use of HTML, and using that, we can have greater control ove
 
 <img src="http://www.stevensegallery.com/500/500" height="500" width="500" title="Steven the Musician">
 
+
+<img src="http://www.stevensegallery.com/500/500" height="200" width="500" title="Steven the Musician">
 ---
 ### Aligning Images
 Images, like most of markdown, are by default left-aligned. However, an image can be aligned to the center or the right. To align an image to the right, one must use the following code, defining the width and height (in pixels) of the image.
