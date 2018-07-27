@@ -78,6 +78,15 @@ A footnote is created in the same way a link or image reference is created, but 
 
 A sentence with a footnote[^5] in it would have a footnote. It would be elsewere defined as [5] as normal, and show at the bottom of the page. 
 
+However, github does support HTML. By using the ```<sup></sup>``` tag, we are able to simulate a footnote. 
+
+```
+This is an example of a footnote<sup>1</sup>.
+
+```
+This is an example of a footnote<sup>1</sup>.
+
+
 A definition is also a reference based function. It is created independant of the initial reference, however. With links, images and footnotes, a reference is created and defined elsewhere. With a definition, the initial reference is not used. A definition is denoted with an asterisk before the square brackets. Once defined, whenever the word used within the brackets is used in the document, the definition is displayed if the user hovers over the word. This is used mostly for abbreviations.
 
 *[URL]: Uniform Resource Locator
