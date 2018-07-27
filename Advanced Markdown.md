@@ -51,35 +51,6 @@ Images in markdown are created in-line by default, allowing text to flow around 
   <img width="400" height="350" src="http://www.stevensegallery.com/400/350">
 </p>
 
----
-
-### Footnotes
-
-There are several more markdown functions, such as definitions and footnotes. However, these functions of markdown are not supported by github and cannot be demonstrated here. In other places that do support these functions, they work similarly to other forms of reference.
-
-A footnote is created in the same way a link or image reference is created, but uses a caret ( ^ ) to turn it into a footnote. When you define the reference, the document creates the footnote at the bottom of the page, and links the note to and from the origination point. 
-
-A sentence with a footnote[^5] in it would have a footnote. It would be elsewere defined as [5] as normal, and show at the bottom of the page. 
-
-However, github does support HTML. By using the HTML superscript tag (```<sup></sup>```), we are able to simulate a footnote. 
-
-```
-This is an example of a footnote<sup>1</sup>.
-
-```
-This is an example of a footnote<sup>1</sup>.
-
-After this, you must place the footnote manually at the bottom of the page. While this doesn't offer the same convenience as a normal footnote, it is all that can be done in github. 
-
----
-
-### Definitions
-
-A definition is also a reference based function. It is created independant of the initial reference, however. With links, images and footnotes, a reference is created and defined elsewhere. With a definition, the initial reference is not used. A definition is denoted with an asterisk before the square brackets. Once defined, whenever the word used within the brackets is used in the document, the definition is displayed if the user hovers over the word. This is used mostly for abbreviations.
-
-*[URL]: Uniform Resource Locator
-
-With this definition, whenever URL is typed, the word is automatically defined.
 
 ---
 ### Task Boxes
@@ -116,6 +87,36 @@ Lastly, and perhaps least, Github, along with some other markdown-using websites
 :sunglasses: :8ball: :whale: :eight: :six: :seven: :five: :three: :zero: :nine:
 
 A full list of the emojis that Github supports can be found [here.](http://www.emoji-cheat-sheet.com "Github Emojis")
+
+---
+
+### Footnotes (Not supported in Github)
+
+There are several more markdown functions, such as definitions and footnotes. However, these functions of markdown are not supported by github and cannot be demonstrated here. In other places that do support these functions, they work similarly to other forms of reference.
+
+A footnote is created in the same way a link or image reference is created, but uses a caret ( ^ ) to turn it into a footnote. When you define the reference, the document creates the footnote at the bottom of the page, and links the note to and from the origination point. 
+
+A sentence with a footnote[^5] in it would have a footnote. It would be elsewere defined as [5] as normal, and show at the bottom of the page. 
+
+However, github does support HTML. By using the HTML superscript tag (```<sup></sup>```), we are able to simulate a footnote. 
+
+```
+This is an example of a footnote<sup>1</sup>.
+
+```
+This is an example of a footnote<sup>1</sup>.
+
+After this, you must place the footnote manually at the bottom of the page. While this doesn't offer the same convenience as a normal footnote, it is all that can be done in github. 
+
+---
+
+### Definitions (Not supported in Github)
+
+A definition is also a reference based function. It is created independant of the initial reference, however. With links, images and footnotes, a reference is created and defined elsewhere. With a definition, the initial reference is not used. A definition is denoted with an asterisk before the square brackets. Once defined, whenever the word used within the brackets is used in the document, the definition is displayed if the user hovers over the word. This is used mostly for abbreviations.
+
+*[URL]: Uniform Resource Locator
+
+With this definition, whenever URL is typed, the word is automatically defined.
 
 ---
 
