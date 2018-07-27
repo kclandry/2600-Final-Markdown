@@ -39,7 +39,9 @@ An image can be stretched or squashed to fit a specific height or width. This wi
 ```
 
 <img src="http://www.stevensegallery.com/500/500" height="200" width="500" title="Steven the Musician">
+
 ---
+
 ### Aligning Images
 Images, like most of markdown, are by default left-aligned. However, an image can be aligned to the center or the right. To align an image to the right, one must use the following code, defining the width and height (in pixels) of the image.
 
