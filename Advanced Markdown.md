@@ -92,13 +92,13 @@ A full list of the emojis that Github supports can be found [here.](http://www.e
 
 ### Footnotes (Not supported in Github)
 
-There are several more markdown functions, such as definitions and footnotes. However, these functions of markdown are not supported by github and cannot be demonstrated here. In other places that do support these functions, they work similarly to other forms of reference.
+There are several more markdown functions, such as definitions and footnotes. However, these functions of markdown are not supported by Github and cannot be demonstrated here. In other places that do support these functions, they work similarly to other forms of reference.
 
 A footnote is created in the same way a link or image reference is created, but uses a caret ( ^ ) to turn it into a footnote. When you define the reference, the document creates the footnote at the bottom of the page, and links the note to and from the origination point. 
 
 A sentence with a footnote[^5] in it would have a footnote. It would be elsewere defined as [5] as normal, and show at the bottom of the page. 
 
-However, github does support HTML. By using the HTML superscript tag (```<sup></sup>```), we are able to simulate a footnote. 
+However, Github does support HTML. By using the HTML superscript tag (```<sup></sup>```), we are able to simulate a footnote. 
 
 ```
 This is an example of a footnote<sup>1</sup>.
@@ -106,7 +106,7 @@ This is an example of a footnote<sup>1</sup>.
 ```
 This is an example of a footnote<sup>1</sup>.
 
-After this, you must place the footnote manually at the bottom of the page. While this doesn't offer the same convenience as a normal footnote, it is all that can be done in github. 
+After this, you must place the footnote manually at the bottom of the page. While this doesn't offer the same convenience as a normal footnote, it is all that can be done in Github. 
 
 ---
 
