@@ -52,23 +52,6 @@ Images in markdown are created in-line by default, allowing text to flow around 
 </p>
 
 ---
-### Task Boxes
-
-Markdown offers support for task lists. With special formatting, they appear with boxes (checked or unchecked) next to them.
-
-```
-* [x] Think about doing the thing
-* [ ] Talk about doing the thing
-* [ ] Do the thing
-```
-
-* [x] Think about doing the thing
-* [ ] Talk about doing the thing
-* [ ] Do the thing
-
-These sorts of things are useful for lists individually, but also when working in groups. Github is a version control system, designed to help teams work together. These sorts of lists assist in keeping everyone abreast of the progress of a project.
-
----
 
 ### Footnotes
 
@@ -99,17 +82,40 @@ A definition is also a reference based function. It is created independant of th
 With this definition, whenever URL is typed, the word is automatically defined.
 
 ---
+### Task Boxes
+
+Github has a special "flavored" markdown that has some features that not everwhere that uses markdown offers. Firstly, Github markdown offers support for task lists. With special formatting, they appear with boxes (checked or unchecked) next to them.
+
+```
+* [x] Think about doing the thing
+* [ ] Talk about doing the thing
+* [ ] Do the thing
+```
+
+* [x] Think about doing the thing
+* [ ] Talk about doing the thing
+* [ ] Do the thing
+
+These sorts of things are useful for lists individually, but also when working in groups. Github is a version control system, designed to help teams work together. These sorts of lists assist in keeping everyone abreast of the progress of a project.
+
+---
+
+### Direct Mentions (@)
+
+In line with begin a version control system, Github offers a way to directly mention another user. by typing the "@" symbol, followed with the username of the individual or team, the subject will recieve a notification directing them to the location. This is useful when working with groups on projects on Github.
+
+---
 
 ### Emoji
 
-Lastly, and perhaps least, github, along with some other markdown-using websites and services, support emojis. These small images will likely have limited usefulness, but it is worth knowing nonetheless. An emoji is created by placing the appropriate emoji code within a pair of colons. 
+Lastly, and perhaps least, Github, along with some other markdown-using websites and services, support emojis. These small images will likely have limited usefulness, but it is worth knowing nonetheless. An emoji is created by placing the appropriate emoji code within a pair of colons. 
 
 ```
 :sunglasses: :8ball: :whale: :eight: :six: :seven: :five: :three: :zero: :nine:
 ```
 :sunglasses: :8ball: :whale: :eight: :six: :seven: :five: :three: :zero: :nine:
 
-A full list of the emojis that github supports can be found [here.](http://www.emoji-cheat-sheet.com "Github Emojis")
+A full list of the emojis that Github supports can be found [here.](http://www.emoji-cheat-sheet.com "Github Emojis")
 
 ---
 
