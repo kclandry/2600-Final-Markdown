@@ -33,6 +33,10 @@ Github supports the use of HTML, and using that, we can have greater control ove
 
 <img src="http://www.stevensegallery.com/500/500" height="500" width="500" title="Steven the Musician">
 
+An image can be stretched or squished to fit a specific height or width. This will create distortion and is genreally best to be avoided. 
+```
+<img src="http://www.stevensegallery.com/500/500" height="200" width="500" title="Steven the Musician">
+```
 
 <img src="http://www.stevensegallery.com/500/500" height="200" width="500" title="Steven the Musician">
 ---
