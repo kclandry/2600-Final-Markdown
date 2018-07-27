@@ -29,7 +29,7 @@ In the same vein, throughout this tutorial, I have been demonstrating the use of
 ***When framed with three tick marks, this sentence will be displayed in plain text.***
 ```
 
-When a coding language that markdown recognizes is used in conjunction to this function, it provides useful syntax highlighting support. For example, javascript can be highlighted by typing "\`\`\`javascript" At the start of the section.
+When a coding language that markdown recognizes is used in conjunction to this function, it provides useful syntax highlighting support. For example, javascript can be highlighted by typing "\`\`\`javascript" At the start of the section, instead of just "\`\`\`".
 
 ```javascript
 var car = {type:"Fiat", model:"500", color:"white"};
@@ -71,6 +71,8 @@ This is a link to [Google](https://www.google.com/ "Google's Homepage")
 ```
 This is a link to [Google](https://www.google.com/ "Google's Homepage")
 
+##### Referenced Links
+
 If you want to link a page multiple times, it is typically easier to use a referenced link. Instead of placing the link in parentheses each time, place something else within square brackets, directly after the first set of brackets. Elsewhere in the code, you will define that link.
 
 ```
@@ -91,6 +93,8 @@ This is a link to [Amazon][2]
 
 [1]:https://www.google.com/
 [2]:https://www.amazon.com/
+
+##### Automatic Links
 
 Lastly, for the lazy: markdown often automatically recognizes links and makes them function, no formatting required. 
 
