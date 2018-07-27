@@ -92,6 +92,14 @@ This is a link to [Amazon][2]
 [1]:https://www.google.com/
 [2]:https://www.amazon.com/
 
+Lastly, for the lazy: markdown often automatically recognizes links and makes them function, no formatting required. 
+
+```
+https://www.google.com/
+```
+
+https://www.google.com/
+
 ---
 ### Embedding Images
 
