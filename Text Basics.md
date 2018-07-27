@@ -59,9 +59,9 @@ To create strikethrough text, frame your words with two tildes. ~~
 
 You can use a single *asterisk* or _underscore_ to italicize words, a double **asterisk** or 
 double __underscore__ to make something bolded, and two ~~tildes~~ to make something strikethrough. 
-You can use ***three asterisks*** or ___three underscores___ to get bolded   italics. 
+You can use ***three asterisks*** or ___three underscores___ to get bolded italics. 
 You can use these functions within each other as well. *By using a single asterisk, 
-this whole sentence is italicized, but by   putting **two asterisks here**, that part is bolded as well.*
+this whole sentence is italicized, but by putting **two asterisks here**, that part is bolded as well.*
 ```
 
 With markdown, that paragraph turns into this:
