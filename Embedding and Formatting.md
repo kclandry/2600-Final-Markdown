@@ -6,7 +6,7 @@ This page will demonstrate more advanced uses of markdown. Namely, embedding ima
 
 ### Horizontal Lines
 
-First of all, on the previous page, there were several horizontal lines used to seperate the individual sections. These were created using groupings of certain symbols. A group of three or more asterisks, dashes(hyphens) , or underscores may be used.
+First of all, on the previous page, there were several horizontal lines used to separate the individual sections. These were created using groupings of certain symbols. A group of three or more asterisks, dashes(hyphens) , or underscores may be used.
 
 ```To demonstrate:
 ---
@@ -128,7 +128,7 @@ Images are embedded in similar ways. Follow the same format for creating links, 
 
 The final topic covered on this page will be the use of tables. Tables are excellent ways to organize and present information, and while they can be embedded, tables can be created entirely within markdown. 
 
-Tables are created with vertical lines, most often found on keyboards as the shift-function of the backslash key, typically found above the enter key. By seperating words and phrases into columns using the vertical line ( | ) and creating rows with new lines, making a table in markdown is quite easy. A table is begun by creating header columns and seperating them, and then using three or more dashes in the second row in the same number of columns.
+Tables are created with vertical lines, most often found on keyboards as the shift-function of the backslash key, typically found above the enter key. By separating words and phrases into columns using the vertical line ( | ) and creating rows with new lines, making a table in markdown is quite easy. A table is begun by creating header columns and separating them, and then using three or more dashes in the second row in the same number of columns.
 
 ```
 Simple|Table|Design
@@ -176,4 +176,5 @@ Center Justified    |Right Justified    |Left Justified
 ---
 
 Click [here](../master/Table%20of%20Contents.md) to return to the Table of Contents for this project.
+
 
