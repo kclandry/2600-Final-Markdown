@@ -37,7 +37,7 @@ document.getElementById("demo").innerHTML = car.type;
 ```
 
 ---
-# Clearing Formatting (Backslash Escapes)
+### Clearing Formatting (Backslash Escapes)
 
 Sometimes a user wants to type a tick mark without denoting code, or use an asterisk without risking making something a list. By using the backslash ( \ ), you can remove the formatting of the symbol. This is sometimes referred to as an "escape", and allows you to type something literally, without markdown interpretation.
 
