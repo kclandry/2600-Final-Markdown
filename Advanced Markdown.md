@@ -33,7 +33,7 @@ Github supports the use of HTML, and using that, we can have greater control ove
 
 <img src="http://www.stevensegallery.com/500/500" height="500" width="500" title="Steven the Musician">
 
-An image can be stretched or squished to fit a specific height or width. This will create distortion and is genreally best to be avoided. 
+An image can be stretched or squashed to fit a specific height or width. This will create distortion and is generally best to be avoided. 
 ```
 <img src="http://www.stevensegallery.com/500/500" height="200" width="500" title="Steven the Musician">
 ```
@@ -71,7 +71,7 @@ Images in markdown are created in-line by default, allowing text to flow around 
 ---
 ### Task Boxes
 
-Github has a special "flavored" markdown that has some features that not everwhere that uses markdown offers. Firstly, Github markdown offers support for task lists. With special formatting, they appear with boxes (checked or unchecked) next to them.
+Github has a special "flavored" markdown that has some features that not everywhere that uses markdown offers. Firstly, Github markdown offers support for task lists. With special formatting, they appear with boxes (checked or unchecked) next to them.
 
 ```
 * [x] Think about doing the thing
@@ -89,7 +89,7 @@ These sorts of things are useful for lists individually, but also when working i
 
 ### Direct Mentions (@)
 
-In line with begin a version control system, Github offers a way to directly mention another user. by typing the "@" symbol, followed with the username of the individual or team, the subject will recieve a notification directing them to the location. This is useful when working with groups on projects on Github.
+In line with begin a version control system, Github offers a way to directly mention another user. by typing the "@" symbol, followed with the username of the individual or team, the subject will receive a notification directing them to the location. This is useful when working with groups on projects on Github.
 
 ---
 
@@ -112,7 +112,7 @@ There are several more markdown functions, such as definitions and footnotes. Ho
 
 A footnote is created in the same way a link or image reference is created, but uses a caret ( ^ ) to turn it into a footnote. When you define the reference, the document creates the footnote at the bottom of the page, and links the note to and from the origination point. 
 
-A sentence with a footnote[^5] in it would have a footnote. It would be elsewere defined as [5] as normal, and show at the bottom of the page. 
+A sentence with a footnote[^5] in it would have a footnote. It would be elsewhere defined as [5] as normal, and show at the bottom of the page. 
 
 However, Github does support HTML. By using the HTML superscript tag (```<sup></sup>```), we are able to simulate a footnote. 
 
@@ -128,7 +128,7 @@ After this, you must place the footnote manually at the bottom of the page. Whil
 
 ### Definitions (Not supported in Github)
 
-A definition is also a reference based function. It is created independant of the initial reference, however. With links, images and footnotes, a reference is created and defined elsewhere. With a definition, the initial reference is not used. A definition is denoted with an asterisk before the square brackets. Once defined, whenever the word used within the brackets is used in the document, the definition is displayed if the user hovers over the word. This is used mostly for abbreviations.
+A definition is also a reference based function. It is created independent of the initial reference, however. With links, images and footnotes, a reference is created and defined elsewhere. With a definition, the initial reference is not used. A definition is denoted with an asterisk before the square brackets. Once defined, whenever the word used within the brackets is used in the document, the definition is displayed if the user hovers over the word. This is used mostly for abbreviations.
 
 *[URL]: Uniform Resource Locator
 
@@ -137,3 +137,5 @@ With this definition, whenever URL is typed, the word is automatically defined.
 ---
 
 Click [here](../master/Table%20of%20Contents.md) to return to the Table of Contents for this project.
+
+
